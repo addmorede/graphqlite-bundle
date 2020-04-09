@@ -1,5 +1,5 @@
 {
-  "name" : "thecodingmachine/graphqlite-bundle",
+  "name" : "addmore/graphqlite-bundle",
   "description" : "A Symfony bundle for thecodingmachine/graphqlite.",
   "keywords" : [
     "graphql",
